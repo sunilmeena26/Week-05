@@ -1,0 +1,107 @@
+[
+    {
+        "Grade": "A",
+        "ID": "1",
+        "Marks": "85",
+        "Age": "17",
+        "Name": "Aarav Sharma"
+    },
+    {
+        "Grade": "B",
+        "ID": "2",
+        "Marks": "78",
+        "Age": "16",
+        "Name": "Diya Singh"
+    },
+    {
+        "Grade": "A",
+        "ID": "3",
+        "Marks": "92",
+        "Age": "17",
+        "Name": "Vihaan Raj"
+    },
+    {
+        "Grade": "A",
+        "ID": "4",
+        "Marks": "88",
+        "Age": "16",
+        "Name": "Aanya Patel"
+    },
+    {
+        "Grade": "C",
+        "ID": "5",
+        "Marks": "65",
+        "Age": "17",
+        "Name": "Advik Kumar"
+    },
+    {
+        "Grade": "B",
+        "ID": "6",
+        "Marks": "74",
+        "Age": "16",
+        "Name": "Myra Gupta"
+    },
+    {
+        "Grade": "B",
+        "ID": "7",
+        "Marks": "81",
+        "Age": "17",
+        "Name": "Anaya Jain"
+    },
+    {
+        "Grade": "A",
+        "ID": "8",
+        "Marks": "90",
+        "Age": "16",
+        "Name": "Kabir Verma"
+    },
+    {
+        "Grade": "C",
+        "ID": "9",
+        "Marks": "69",
+        "Age": "17",
+        "Name": "Aryan Kaur"
+    },
+    {
+        "Grade": "A",
+        "ID": "10",
+        "Marks": "95",
+        "Age": "16",
+        "Name": "Isha Mehta"
+    },
+    {
+        "Grade": "B",
+        "ID": "11",
+        "Marks": "77",
+        "Age": "17",
+        "Name": "Anvi Desai"
+    },
+    {
+        "Grade": "B",
+        "ID": "12",
+        "Marks": "82",
+        "Age": "16",
+        "Name": "Krish Shah"
+    },
+    {
+        "Grade": "A",
+        "ID": "13",
+        "Marks": "86",
+        "Age": "17",
+        "Name": "Riya Aggarwal"
+    },
+    {
+        "Grade": "A",
+        "ID": "14",
+        "Marks": "89",
+        "Age": "16",
+        "Name": "Arjun Chauhan"
+    },
+    {
+        "Grade": "C",
+        "ID": "15",
+        "Marks": "70",
+        "Age": "17",
+        "Name": "Tara Dhawan"
+    }
+]

@@ -1,0 +1,17 @@
+[
+  {"id": "1", "name": "Aarav Sharma", "age": "17", "marks": "85", "grade": "A"},
+  {"id": "2", "name": "Diya Singh", "age": "16", "marks": "78", "grade": "B"},
+  {"id": "3", "name": "Vihaan Raj", "age": "17", "marks": "92", "grade": "A"},
+  {"id": "4", "name": "Aanya Patel", "age": "16", "marks": "88", "grade": "A"},
+  {"id": "5", "name": "Advik Kumar", "age": "17", "marks": "65", "grade": "C"},
+  {"id": "6", "name": "Myra Gupta", "age": "16", "marks": "74", "grade": "B"},
+  {"id": "7", "name": "Anaya Jain", "age": "17", "marks": "81", "grade": "B"},
+  {"id": "8", "name": "Kabir Verma", "age": "16", "marks": "90", "grade": "A"},
+  {"id": "9", "name": "Aryan Kaur", "age": "17", "marks": "69", "grade": "C"},
+  {"id": "10", "name": "Isha Mehta", "age": "16", "marks": "95", "grade": "A"},
+  {"id": "11", "name": "Anvi Desai", "age": "17", "marks": "77", "grade": "B"},
+  {"id": "12", "name": "Krish Shah", "age": "16", "marks": "82", "grade": "B"},
+  {"id": "13", "name": "Riya Aggarwal", "age": "17", "marks": "86", "grade": "A"},
+  {"id": "14", "name": "Arjun Chauhan", "age": "16", "marks": "89", "grade": "A"},
+  {"id": "15", "name": "Tara Dhawan", "age": "17", "marks": "70", "grade": "C"}
+]
