@@ -1,0 +1,52 @@
+[
+  {
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings",
+    "playerOfTheMatch": "Rohit Sharma"
+  },
+  {
+    "team1": "Delhi Capitals",
+    "team2": "Kolkata Knight Riders",
+    "playerOfTheMatch": "Shikhar Dhawan"
+  },
+  {
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Sunrisers Hyderabad",
+    "playerOfTheMatch": "Virat Kohli"
+  },
+  {
+    "team1": "Punjab Kings",
+    "team2": "Rajasthan Royals",
+    "playerOfTheMatch": "KL Rahul"
+  },
+  {
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Capitals",
+    "playerOfTheMatch": "Kieron Pollard"
+  },
+  {
+    "team1": "Chennai Super Kings",
+    "team2": "Kolkata Knight Riders",
+    "playerOfTheMatch": "MS Dhoni"
+  },
+  {
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Punjab Kings",
+    "playerOfTheMatch": "AB de Villiers"
+  },
+  {
+    "team1": "Rajasthan Royals",
+    "team2": "Sunrisers Hyderabad",
+    "playerOfTheMatch": "Sanju Samson"
+  },
+  {
+    "team1": "Mumbai Indians",
+    "team2": "Royal Challengers Bangalore",
+    "playerOfTheMatch": "Hardik Pandya"
+  },
+  {
+    "team1": "Delhi Capitals",
+    "team2": "Chennai Super Kings",
+    "playerOfTheMatch": "Rishabh Pant"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "ID": "101",
+    "name": "Arjun Mehta",
+    "salary": "50000"
+  },
+  {
+    "ID": "102",
+    "name": "Priya Sharma",
+    "salary": "55000"
+  },
+  {
+    "ID": "103",
+    "name": "Rahul Verma",
+    "salary": "60000"
+  },
+  {
+    "ID": "104",
+    "name": "Ananya Singh",
+    "salary": "65000"
+  },
+  {
+    "ID": "105",
+    "name": "Varun Iyer",
+    "salary": "70000"
+  },
+  {
+    "ID": "106",
+    "name": "Isha Patel",
+    "salary": "75000"
+  },
+  {
+    "ID": "107",
+    "name": "Vikram Desai",
+    "salary": "80000"
+  },
+  {
+    "ID": "108",
+    "name": "Kavya Kapoor",
+    "salary": "85000"
+  },
+  {
+    "ID": "109",
+    "name": "Siddharth Reddy",
+    "salary": "90000"
+  },
+  {
+    "ID": "110",
+    "name": "Aditi Chatterjee",
+    "salary": "95000"
+  },
+  {
+    "ID": "111",
+    "name": "Aarav Khan",
+    "salary": "100000"
+  },
+  {
+    "ID": "112",
+    "name": "Naina Gupta",
+    "salary": "105000"
+  },
+  {
+    "ID": "113",
+    "name": "Karan Bose",
+    "salary": "110000"
+  },
+  {
+    "ID": "114",
+    "name": "Neha Raj",
+    "salary": "115000"
+  },
+  {
+    "ID": "115",
+    "name": "Rishi Malhotra",
+    "salary": "120000"
+  }
+]

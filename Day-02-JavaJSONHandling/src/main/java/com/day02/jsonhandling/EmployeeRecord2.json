@@ -1,0 +1,54 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Amit Kumar",
+      "salary": 50000
+    },
+    {
+      "id": 2,
+      "name": "Neha Sharma",
+      "salary": 55000
+    },
+    {
+      "id": 3,
+      "name": "Rajesh Verma",
+      "salary": 60000
+    },
+    {
+      "id": 4,
+      "name": "Priya Singh",
+      "salary": 48000
+    },
+    {
+      "id": 5,
+      "name": "Vikram Patel",
+      "salary": 53000
+    },
+    {
+      "id": 6,
+      "name": "Kavita Jain",
+      "salary": 62000
+    },
+    {
+      "id": 7,
+      "name": "Anil Gupta",
+      "salary": 47000
+    },
+    {
+      "id": 8,
+      "name": "Pooja Mehta",
+      "salary": 59000
+    },
+    {
+      "id": 9,
+      "name": "Rakesh Rao",
+      "salary": 51000
+    },
+    {
+      "id": 10,
+      "name": "Swati Desai",
+      "salary": 58000
+    }
+  ]
+}
