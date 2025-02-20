@@ -1,0 +1,10 @@
+101,Amit Kumar,50000
+102,Neha Sharma,55000
+103,Rajesh Verma,60000
+104,Priya Singh,48000
+105,Vikram Patel,53000
+106,Kavita Jain,62000
+107,Anil Gupta,47000
+108,Pooja Mehta,59000
+109,Rakesh Rao,51000
+110,Swati Desai,58000
